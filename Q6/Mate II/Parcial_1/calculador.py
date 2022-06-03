@@ -174,8 +174,8 @@ h= {h}
 * Definir valores iniciales *
 y(0)= 2/9    """)
 
-    t_ini=0.000000000 #int(input("Ingresa el valor inicial de t: "))
-    y_ini=0.222222222 #int(input("Ingresa el valor inicial de y: "))
+    t_ini=0.00000 #int(input("Ingresa el valor inicial de t: "))
+    y_ini=0.22222 #int(input("Ingresa el valor inicial de y: "))
     print("""
 * Seleccionar métodos para solución *""")
     op=1
